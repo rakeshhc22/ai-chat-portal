@@ -15,9 +15,9 @@ A full-stack AI-powered chat application with conversation management, analytics
 ### Welcome Page
 ![Welcome Page](screenshots/welcome-page.png)
 
-![Welcome Page](screenshots/welcome-page(2).png)
+![Welcome Page](screenshots/welcome-page (2).png)
 
-![Welcome Page](screenshots/welcome-page(3).png)
+![Welcome Page](screenshots/welcome-page (3).png)
 *Premium landing page with dark mode support*
 
 ### Chat Interface
